@@ -1,16 +1,19 @@
-## Hi there 👋
+# About Me
 
-<!--
+
 **MelProgramming/MelProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Twitter Sentiment Analysis 
+- 🌱 I’m currently learning data science and machine learning
+- 👯 I’m looking to collaborate on software development and data science/machine learning 
+- 🤔 I’m looking for help with developing projects beyond the amateur level!
+- 💬 Ask me about tennis and the ATP tour
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I used to have 500 decimal places of pi memorized
+<!--
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
