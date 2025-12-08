@@ -1,9 +1,8 @@
-# About Me
+# Melprogramming
 
 
-**MelProgramming/MelProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **MelProgramming/MelProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Twitter Sentiment Analysis 
 - 🌱 I’m currently learning data science and machine learning
